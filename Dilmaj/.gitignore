@@ -27,6 +27,3 @@ gen/
  *.ipr
  *.iws
  .idea
- 
- # aide
- *.gradle
